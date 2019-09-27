@@ -3,7 +3,7 @@ package unidecode
 import (
 	"unicode"
 
-	"github.com/danlocke/go-unidecode/table"
+	"github.com/dan-locke/go-unidecode/table"
 )
 
 // Unidecode implements transliterate Unicode text into plain 7-bit ASCII.
